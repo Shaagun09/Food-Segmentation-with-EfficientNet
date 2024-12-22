@@ -107,6 +107,4 @@ The dataset is sourced from  AI-generated images using Stable Diffusion.  [here]
 ---
 
 ## Authors
-- **Lavanya Gurram**
-- **Srikanth Thota**
 - **Shaagun Suresh**
